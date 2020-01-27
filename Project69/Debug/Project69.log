@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2015\projects\project69\project69\source.cpp(270): warning C4018: '<': signed/unsigned mismatch
+  Project69.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\Project69\Debug\Project69.exe
+  Project69.vcxproj -> c:\users\asus\documents\visual studio 2015\Projects\Project69\Debug\Project69.pdb (Full PDB)
